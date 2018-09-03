@@ -1,0 +1,12 @@
+{
+  "name": "whatifheroku",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "git@github.com:nicholaswagner/whatifheroku.git",
+  "author": "Nicholas <nicholas@secretsignal.com>",
+  "license": "MIT",
+  "private": "true"
+}
